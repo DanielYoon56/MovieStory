@@ -1,0 +1,6 @@
+{
+  "name": "MovieStory AI",
+  "description": "영화에서 인생의 서사를 분석하여 독창적인 새로운 이야기와 대본·스토리보드를 창작하는 AI 스토리텔링 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
